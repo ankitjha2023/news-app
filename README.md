@@ -3,7 +3,8 @@
 Welcome to the News App repository! This application allows users to read news articles from multiple categories and perform searches to find specific news content.
 It is built using Bootstrap, JavaScript, and the News API.
 
-![image](https://github.com/ankitjha2023/news-app/assets/127032700/7ff9eb1b-e894-45cc-bf82-bdc7ec4af91f)
+![image](https://github.com/ankitjha2023/news-app/assets/127032700/b46b6283-9489-41f3-b27b-9d6a393dc8a2)
+
 
 
 
