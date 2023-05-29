@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+::-webkit-scrollbar{
+    display: none;
+}
+.nav-link{
+    font-size: 18px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+#home{
+    height: 80vh;
+    background-image: url("bg.avif");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.card-img-top{
+    height: 300px;
+    object-fit: cover;
+}
+.card{
+    margin: 20px 0px;
+}
+
+
+.row-image{
+    width: 100%;
+}
